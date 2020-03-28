@@ -1,0 +1,10 @@
+﻿WinRAR v5.31 (x86/x64)/Key
+
+WinRAR is an advanced data compression utility that supports a wide array of format including
+ RAR, ZIP, CAB, ARJ, LZH, ACE, TAR, GZip, UUE, ISO, BZIP2, Z and 7-Zip. It enables you to create, 
+ organize and manage archives in a comfortable and quick manner.
+
+Instructions:
+1. Unpack and install
+2. Copy and paste rarreg.key Into Winrar Directory
+3. Done.
